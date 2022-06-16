@@ -46,9 +46,9 @@
 ## Tools and Technologies I'm Studying
 
 <div style="display: inline_bloco"><br/>
-    <img align="Center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="Center" alt="PostgreSQL" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img align="Center" alt="AmazonAWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-    <img align="Center" alt="Airflow" height="30" width="110" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+    <p><img align="Center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&ensp;
+    <img align="Center" alt="PostgreSQL" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&ensp;
+    <img align="Center" alt="AmazonAWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>&ensp;
+    <img align="Center" alt="Airflow" height="30" width="110" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>&ensp;</p>
 </div>
 
