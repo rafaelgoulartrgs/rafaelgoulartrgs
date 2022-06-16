@@ -61,3 +61,4 @@
     
 </div>
 
+![Snake animation](https://github.com/rafaelgoulartrgs/rafaelgoulartrgs/blob/output/github-contribution-grid-snake.svg)
