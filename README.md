@@ -1,8 +1,8 @@
 # Hello! I'm Rafael Goulart.
 
  - 💼 I’m currently working on: KOIN Adm. de Cartões e Meios de Pagamento S.A.
- - 📚 I’m currently learning: Data Engineer
- - 📊 I’m looking to collaborate on: Projects de Data Enginner
+ - 📚 I’m currently learning: Data Engineering
+ - 📊 I’m looking to collaborate on: Projects de Data Engineering
  - 🤔 I’m looking for help with: Portfolio Tips in Data Engineering
  - 💬 Ask me about: Database
  - 📫 How to reach me: By my available contacts.
@@ -10,8 +10,9 @@
 </br>
 
 <div>
+    <a href="https://github.com/rafaelgoulartrgs">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rafaelgoulartrgs&show_icons=true&theme=merko"/>
-
+    <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgoulartrgs&theme=merko"/>
 </div>
 
 </br>
@@ -50,7 +51,7 @@
 
 </br>
 
-## My contacts
+## My Available Contacts.
 
 </br>
 
@@ -59,3 +60,4 @@
     <a href="mailto:rafael.goulartrgs@outlook.com" targe="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>&ensp;
     
 </div>
+
