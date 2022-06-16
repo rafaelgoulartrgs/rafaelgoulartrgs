@@ -16,7 +16,7 @@
 
 </br>
 
-## Tools and technology I master
+## 💻⚙ Tools and technology I master
 
 <div style="display: inline_bloco"><br/>
     <p><img align="Center" alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&ensp;
@@ -38,7 +38,7 @@
 
 </br>
 
-## Tools and Technologies I'm Studying
+## 📚⏳ Tools and Technologies I'm Studying
 
 <div style="display: inline_bloco"><br/>
     <p><img align="Center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&ensp;
@@ -50,7 +50,7 @@
 
 </br>
 
-## My Available Contacts.
+##  My Available Contacts.
 
 </br>
 
