@@ -58,7 +58,5 @@
 <div>
     <a href="https://www.linkedin.com/in/rafael-goulart-558569168/" targe="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&ensp;
     <a href="mailto:rafael.goulartrgs@outlook.com" targe="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>&ensp;
-    
 </div>
-
 ![Snake animation](https://github.com/rafaelgoulartrgs/rafaelgoulartrgs/blob/output/github-contribution-grid-snake.svg)
