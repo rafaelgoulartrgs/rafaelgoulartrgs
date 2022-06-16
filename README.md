@@ -12,7 +12,6 @@
 <div>
     <a href="https://github.com/rafaelgoulartrgs">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rafaelgoulartrgs&show_icons=true&theme=merko"/>
-    <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgoulartrgs&theme=merko"/>
 </div>
 
 </br>
