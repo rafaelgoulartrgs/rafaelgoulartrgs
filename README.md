@@ -10,12 +10,6 @@
 </br>
 
 <div>
-    <a href="https://www.linkedin.com/in/rafael-goulart-558569168/" targe="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-</br>
-
-<div>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=rafaelgoulartrgs&show_icons=true&theme=merko"/>
 
 </div>
@@ -25,7 +19,7 @@
 ## Tools and technology I master
 
 <div style="display: inline_bloco"><br/>
-     <p><img align="Center" alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&ensp;
+    <p><img align="Center" alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&ensp;
     <img align="Center" alt="macOS" height="30" width="80" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>&ensp;
     <img align="Center" alt="Windows" height="30" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&ensp;
     <img align="Center" alt="Office" height="30" width="160" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>&ensp;
@@ -39,6 +33,7 @@
     <img align="Center" alt="PostgreSQL" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&ensp;
     <img align="Center" alt="Trello" height="30" width="90" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>&ensp;
     <img align="Center" alt="Jira" height="30" width="90" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&ensp;</p>
+    
 </div>
 
 </br>
@@ -47,8 +42,20 @@
 
 <div style="display: inline_bloco"><br/>
     <p><img align="Center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&ensp;
+    <img align="Center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>&ensp;
     <img align="Center" alt="PostgreSQL" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&ensp;
     <img align="Center" alt="AmazonAWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>&ensp;
     <img align="Center" alt="Airflow" height="30" width="110" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>&ensp;</p>
 </div>
 
+</br>
+
+## My contacts
+
+</br>
+
+<div>
+    <a href="https://www.linkedin.com/in/rafael-goulart-558569168/" targe="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&ensp;
+    <a href="mailto:rafael.goulartrgs@outlook.com" targe="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>&ensp;
+    
+</div>
