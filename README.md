@@ -32,12 +32,16 @@ Tools:
     <img align="Center" alt="Trello" height="30" width="90" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>&ensp;
     </br></br>
     <img align="Center" alt="Slack" height="30" width="90" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&ensp;
+    <img align="Center" alt="Zoom" height="30" width="90" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white;
     </p>
     </br></br>
  Tecnology:
     <p>
     <img align="Center" alt="MySQL" height="30" width="110" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&ensp;
     <img align="Center" alt="PostgreSQL" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&ensp;
+    <img align="Center" alt="DynamoDB" height="30" width="110" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>&ensp;
+    <img align="Center" alt="Redis" height="30" width="110" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>&ensp;
+    <img align="Center" alt="AmazonAWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>&ensp;
     <img align="Center" alt="Jira e Confluence" height="30" width="90" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&ensp;
     <img align="Center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>&ensp;
     </p>
@@ -50,8 +54,9 @@ Tools:
 
 <div style="display: inline_bloco"><br/>
     <p>
-    <img align="Center" alt="PostgreSQL" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&ensp;
-    <img align="Center" alt="AmazonAWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>&ensp;
+    <img align="Center" alt="MySQL" height="30" width="110" src="[https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)"/>&ensp;
+    <img align="Center" alt="Microsoft SQL Server" height="30" width="110" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>&ensp;
+    <img align="Center" alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&ensp;
     </p>
 </div>
 
