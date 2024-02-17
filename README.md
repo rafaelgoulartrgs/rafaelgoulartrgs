@@ -30,6 +30,7 @@ Tools:
     <img align="Center" alt="Notepad++IDE" height="30" width="100" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>&ensp;
     <img align="Center" alt="VSCode" height="30" width="160" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&ensp;
     <img align="Center" alt="Trello" height="30" width="90" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>&ensp;
+    <img align="Center" alt="Slack" height="30" width="90" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>&ensp;
     </p>
     </br></br>
  Tecnology:
