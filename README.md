@@ -48,7 +48,6 @@ Tools:
 
 <div style="display: inline_bloco"><br/>
     <p>
-    
     <img align="Center" alt="PostgreSQL" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&ensp;
     <img align="Center" alt="AmazonAWS" height="30" width="110" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>&ensp;
     </p>
