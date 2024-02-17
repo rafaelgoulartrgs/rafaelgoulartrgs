@@ -1,9 +1,9 @@
 # Hello! I'm Rafael Goulart.
 
- - 💼 I’m currently working on: KOIN Adm. de Cartões e Meios de Pagamento S.A.
- - 📚 I’m currently learning: Data Engineering
- - 📊 I’m looking to collaborate on: Projects de Data Engineering
- - 🤔 I’m looking for help with: Portfolio Tips in Data Engineering
+ - 💼 I’m currently working on: Dock
+ - 📚 I’m currently learning: Database Engineering
+ - 📊 I’m looking to collaborate on: Projects de Database Engineering
+ - 🤔 I’m looking for help with: Portfolio Tips in Database Engineering
  - 💬 Ask me about: Database
  - 📫 How to reach me: By my available contacts.
 
