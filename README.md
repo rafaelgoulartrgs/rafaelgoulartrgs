@@ -19,8 +19,8 @@
 
 ## 💻 Tools and technology I master
 
-<title> Tools </title>
 
+Tools:
 <div style="display: inline_bloco"><br/>
     <p>
     <img align="Center" alt="Linux" height="30" width="80" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&ensp;
@@ -30,13 +30,14 @@
     <img align="Center" alt="ColabIDE" height="30" width="80" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>&ensp;
     <img align="Center" alt="Notepad++IDE" height="30" width="100" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>&ensp;
     <img align="Center" alt="VSCode" height="30" width="160" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&ensp;
+    <img align="Center" alt="Trello" height="30" width="90" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>&ensp;
     </p>
     </br></br>
+ Tecnology
     <p>
     <img align="Center" alt="MySQL" height="30" width="110" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&ensp;
     <img align="Center" alt="PostgreSQL" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>&ensp;
-    <img align="Center" alt="Trello" height="30" width="90" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>&ensp;
-    <img align="Center" alt="Jira" height="30" width="90" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&ensp;
+    <img align="Center" alt="Jira e Confluence" height="30" width="90" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>&ensp;
     <img align="Center" alt="Git" height="30" width="70" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>&ensp;
     </p>
     
